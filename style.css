@@ -11,3 +11,7 @@ svg {
     height: 400px;
     position: absolute;
 }
+
+.cloud {
+    fill: #fff;
+}
