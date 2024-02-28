@@ -5,3 +5,9 @@ body {
     #2178d1 50%, #085cb3 100%);
     overflow: hidden;
 }
+svg {
+    bottom: 0px;
+    width: 900px;
+    height: 400px;
+    position: absolute;
+}
